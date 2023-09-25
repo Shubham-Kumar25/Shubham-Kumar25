@@ -1,4 +1,4 @@
-👨‍💻 Computer Science Enthusiast 
+👨‍💻 Computer Science Enthusiast
 🎓 Master's in Computer Science | Gold Medalist 🥇
 
 🚀 Exploring the MERN Stack for Web Development
