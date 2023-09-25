@@ -3,8 +3,8 @@
 <a href="https://www.linkedin.com/in/shubham-sharmaaaa/">
   <img align="left" alt="shubhamkumar-linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/_kaushik1999/	">
-  <img align="left" alt="rohit.rkshakya_Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/lakshay_sharmaaa/	">
+  <img align="left" alt="shubhamkumar-instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br />
@@ -24,7 +24,7 @@
 
 <br />
 
-- 🔭 Must watch repositories: [My-Portfolio](https://github.com/Shubham-Kumar25/my-portfolio.git), [Weather-App](https://github.com/Shubham-Kumar25/weatherapp.git)
+- 🔭 Must watch repositories: [My-Portfolio](https://github.com/Shubham-Kumar25/my-portfolio.git), [Weather-App](https://github.com/Shubham-Kumar25/weatherapp.git), [BuyAnything](https://github.com/Shubham-Kumar25/buyanything.git)
 - 💬 Ask me about web development, data structures, algorithm.
 - 📫 How to reach me: ishubhamjnv@gmail.com
 
