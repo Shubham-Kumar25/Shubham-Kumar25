@@ -1,16 +1,13 @@
-### Hi there 👋
+👨‍💻 Computer Science Enthusiast 
+🎓 Master's in Computer Science | Gold Medalist 🥇
 
-<!--
-**Shubham-Kumar25/Shubham-Kumar25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Exploring the MERN Stack for Web Development
 
-Here are some ideas to get you started:
+🔍 Always eager to learn, grow, and contribute to the tech community
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Passionate about software engineering, data structures, and algorithms
+
+💡 Turning coffee into code ☕
+
+🌐 Connect with me:
+LinkedIn: https://www.linkedin.com/in/shubham-sharmaaaa/
