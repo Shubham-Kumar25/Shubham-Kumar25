@@ -20,8 +20,6 @@
 
 📚 Passionate about software engineering, data structures, and algorithms
 
-💡 Turning coffee into code ☕
-
 <br />
 
 - 🔭 Must watch repositories: [My-Portfolio](https://github.com/Shubham-Kumar25/my-portfolio.git), [Weather-App](https://github.com/Shubham-Kumar25/weatherapp.git), [BuyAnything](https://github.com/Shubham-Kumar25/buyanything.git)
