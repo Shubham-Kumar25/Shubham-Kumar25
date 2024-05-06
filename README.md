@@ -13,10 +13,11 @@
 ### Glad to see you here! 🤩
 
 🎓 Computer Science Postgraduate with a Silver Medal.  
-🌟 Aspiring Front-End Web Developer actively seeking opportunities.
-💡 Currently exploring the MERN Stack for Web Development.
+🌟 Aspiring Front-End Web Developer actively seeking opportunities.  
+💡 Currently exploring the MERN Stack for Web Development.  
 💻 Proficient in JavaScript, React.js, Redux Toolkit, React-Redux, Appwrite, Firebase, HTML5, CSS3, SASS, SCSS, Tailwind CSS, Bootstrap, Material UI, SQL, and more.  
 🛠️ Skilled in various developer and design tools including VS Code, Git, NPM, Figma, and Adobe XD.  
+ 
 
 <br />
 
