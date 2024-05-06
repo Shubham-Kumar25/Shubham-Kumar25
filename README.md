@@ -20,7 +20,7 @@
 
 <br />
 
-- 🔭 Check out my must-watch repositories: [My Portfolio](https://github.com/Shubham-Kumar25/my-portfolio.git), [Weather App](https://github.com/Shubham-Kumar25/weatherapp.git), [BuyAnything](https://github.com/Shubham-Kumar25/buyanything.git).
+- 🔭 Check out my must-watch repositories: [Blog App](https://github.com/Shubham-Kumar25/Blog-App.git), [My Portfolio](https://github.com/Shubham-Kumar25/my-portfolio.git), [Weather App](https://github.com/Shubham-Kumar25/weatherapp.git), [BuyAnything](https://github.com/Shubham-Kumar25/buyanything.git).
 - 💬 Interested in web development, data structures, and algorithms? Feel free to ask me anything!
 - 📫 You can reach me at ishubhamjnv@gmail.com  
 
