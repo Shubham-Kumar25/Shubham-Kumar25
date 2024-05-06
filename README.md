@@ -9,11 +9,13 @@
 
 <br />
 
-### Hello there! I'm Shubham Sharma.
+### Hello there! I'm Shubham.
+### Glad to see you here! 🤩 &nbsp;
 
 🎓 Computer Science Postgraduate with a Silver Medal.  
-🌟 Aspiring Front-End Web Developer actively seeking opportunities.  
-💻 Proficient in JavaScript, React.js, Redux Toolkit, React-Redux, HTML5, CSS3, SASS, SCSS, Tailwind CSS, Bootstrap, Material UI, SQL, and more.  
+🌟 Aspiring Front-End Web Developer actively seeking opportunities.
+💡 Currently exploring the MERN Stack for Web Development.
+💻 Proficient in JavaScript, React.js, Redux Toolkit, React-Redux, Appwrite, Firebase, HTML5, CSS3, SASS, SCSS, Tailwind CSS, Bootstrap, Material UI, SQL, and more.  
 🛠️ Skilled in various developer and design tools including VS Code, Git, NPM, Figma, and Adobe XD.  
 
 <br />
@@ -23,9 +25,9 @@
 - 📫 You can reach me at ishubhamjnv@gmail.com  
 
 ### About Me:
-I'm a tech enthusiast with a strong foundation in Computer Science, and I'm passionate about front-end web development. My journey as a postgraduate has been adorned with a Silver Medal, signifying my dedication and excellence in the field.
+I'm a tech enthusiast with a solid background in Computer Science, driven by a passion for front-end web development. Awarded a Silver Medal during my postgraduate studies, I'm committed to excellence in this field.
 
-Professionally, I aspire to become a proficient Front-End Web Developer and I'm actively seeking opportunities to grow and contribute to the tech community. My technical skills span across a wide array of technologies including JavaScript, React.js, Redux Toolkit, HTML5, CSS3, SASS, SCSS, Tailwind CSS, Bootstrap, and many more. Additionally, I'm adept at utilizing developer and design tools like VS Code, Git, NPM, Figma, and Adobe XD to streamline my workflow and deliver high-quality projects.
+Professionally, I'm dedicated to becoming a skilled Front-End Web Developer. Actively seeking opportunities to contribute, my expertise includes JavaScript, React.js, Redux Toolkit, Appwrite, Firebase, HTML5, CSS3, SASS, SCSS, Tailwind CSS, Bootstrap, and more. I excel in using developer and design tools like VS Code, Git, NPM, Figma, and Adobe XD to optimize project delivery.
 
 <div align="center">
 
