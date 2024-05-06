@@ -10,7 +10,7 @@
 <br />
 
 ### Hello there! I'm Shubham.
-### Glad to see you here! 🤩 &nbsp;
+### Glad to see you here! 🤩
 
 🎓 Computer Science Postgraduate with a Silver Medal.  
 🌟 Aspiring Front-End Web Developer actively seeking opportunities.
